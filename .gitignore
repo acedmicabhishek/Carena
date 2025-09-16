@@ -1,0 +1,21 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore compiled C executables
+1.C_Language_Basics
+2.Control_Flow
+3.Functions
+4.Arrays_and_Strings
+5.Pointers
+6.Structures_and_Unions
+7.File_Handling
+8.Dynamic_Memory_Allocation
+9.Preprocessor_Directives
+10.Advanced_Topics
+11.C_Standards_and_Portability
+12.Concurrency_and_Multithreading
+13.Networking
+14.Inter_Process_Communication
+15.Extreme_Advanced_Topics
+
+extra
