@@ -35,13 +35,13 @@ make clean
 - [ ] Type Casting
 
 ## 2. Control Flow
-- [ ] `if`, `if-else`, `nested if-else`
+- [ ] `nested loops`
 - [ ] `switch` statement
-- [ ] `for` loop
-- [ ] `while` loop
-- [ ] `do-while` loop
-- [ ] `break` and `continue`
+- [ ] `goto_statement()`
+- [ ] `setjmp` and `longjmp` for non-local jumps
 - [ ] `goto` statement (and why to avoid it)
+- [ ] `ternary operator`
+- [ ] `setjmp longjmp`
 
 ## 3. Functions
 - [ ] Function Declaration, Definition, and Call
