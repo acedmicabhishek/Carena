@@ -10,6 +10,7 @@ void scope_and_storage(void);
 
 
 int global_var = 100;
+int extern_var = 500;
 
 
 int main() {
