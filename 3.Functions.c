@@ -47,8 +47,8 @@ int main() {
     
     printf("5. Scope and Storage Classes:\n");
     printf("   Accessing global_var from main: %d\n", global_var);
-    scope_and_storage_example();
-    scope_and_storage_example(); 
+    scope_and_storage();
+    scope_and_storage(); 
     printf("\n");
 
     return 0;
