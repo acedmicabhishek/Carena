@@ -104,4 +104,6 @@ void scope_and_storage(void) {
     register int register_var = 20;
     printf("   - register_var: %d\n", register_var);
 
+    extern int extern_var;
+    printf("   - extern_var: %d\n", extern_var);
 }
