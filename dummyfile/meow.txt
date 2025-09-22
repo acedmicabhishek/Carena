@@ -1,0 +1,4 @@
+Meow, this is the first line.
+This is the second line of the file.
+C file handling is powerful.
+End of file.
