@@ -29,7 +29,7 @@ run:
 	fi
 	@$(eval TARGET_NAME := $(patsubst %.c,%,$(SOURCE_FILE)))
 	@echo "--- Compiling and running $(SOURCE_FILE) ---"
-	@$(CC) $(CFLAGS) -o $(TARGET_NAME) $(SOURCE_FILE)
+	@$(CC) $(CFLAGS) -o $(TARGET_NAME) $(SOURCE_FILE) -lm
 	@./$(TARGET_NAME)
 	@echo "--- Done ---"
 
